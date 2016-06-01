@@ -1,9 +1,13 @@
 from flask import Flask
-app = Flask(_name_)
+app = Flask(__name__)
 
 @app.route('/')
 def index():
 	return '<h1>Hello World</h1>'
 
-if _name_ == '__main__':
+@app.route('/home')
+def tim():
+        return '<h1>Hello Tim</h1>'
+
+if __name__ == '__main__':
 	app.run(debug=True)
