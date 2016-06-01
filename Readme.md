@@ -17,12 +17,12 @@ Aarshiya Guneja
 ### rewards chart
 
 ```
-Tayba Wasim
+Tayba Wasim 0.5$
 Himanshi Khandelwal
 Karan Tatiawala
 Aakarsh Singh
 Dhairya Duggar
-Hitesh Garg
+Hitesh Garg 0.5$
 Aarshiya Guneja
 
 ```
