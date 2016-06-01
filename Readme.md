@@ -9,7 +9,7 @@ Himanshi Khandelwal
 Karan Tatiawala
 Aakarsh Singh
 Dhairya Duggar
-Hitesh Verma
+Hitesh Garg
 Aarshiya Guneja
 
 ```
@@ -22,7 +22,7 @@ Himanshi Khandelwal
 Karan Tatiawala
 Aakarsh Singh
 Dhairya Duggar
-Hitesh Verma
+Hitesh Garg
 Aarshiya Guneja
 
 ```
